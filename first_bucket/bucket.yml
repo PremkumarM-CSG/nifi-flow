@@ -1,0 +1,12 @@
+flows:
+  869a6fe8-de6d-4189-a5d1-566ca5f7f3d6:
+    ver: 1
+    file: git.snapshot
+    comments: |
+      git
+    author: anonymous
+    created: 1731569018645
+    flowName: git
+    flowDesc: git
+layoutVer: 1
+bucketId: e373883f-e95b-40bf-a86f-0b84e56ab015
