@@ -1,4 +1,7 @@
 flows:
+  a14decbb-6d3e-45c7-9a1c-38a1da995a2c: {ver: 3, file: first_flow.snapshot, comments: log
+      attributes got deleted., author: anonymous, created: 1731575952184, flowName: first
+      flow, flowDesc: first flow}
   869a6fe8-de6d-4189-a5d1-566ca5f7f3d6:
     ver: 1
     file: git.snapshot
