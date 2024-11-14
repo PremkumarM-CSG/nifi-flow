@@ -1,6 +1,4 @@
 flows:
-  16be015a-0125-48ef-847c-1d3a34130ae9: {ver: 1, file: demo.snapshot, comments: 'demo
-      purpose ', author: anonymous, created: 1731576428306, flowName: demo, flowDesc: demo}
   a14decbb-6d3e-45c7-9a1c-38a1da995a2c: {ver: 3, file: first_flow.snapshot, comments: log
       attributes got deleted., author: anonymous, created: 1731575952184, flowName: first
       flow, flowDesc: first flow}
